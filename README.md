@@ -28,6 +28,16 @@ As per the documents received-
 
 <a href="https://github.com/Sagnik2612/Great_Britain_Road_Accident_Analysis/blob/main/Requirements/Stakeholder_Requirements_Document%20(1).pdf"> View for full requirements </a>
 
+## Dataset Description
+
+- **1. Accident_Data_for_Tableau.xlsx**
+  - Timeframe: 2019–2022
+
+  - Fields: Accident severity, date, vehicle type, surface & weather conditions, road type, location
+
+    <a href="https://docs.google.com/spreadsheets/d/1vreLQdCEyrL8Wc0-LW5b39ExjyPmrfup/edit?usp=drive_link&ouid=104569429566929534427&rtpof=true&sd=true">Accident_Data_for_Tableau.xlsx</a>
+
+
 ## Tableau Dashboard (2019–2022)
 
 Visualized in: `\Road_Accident_2020-2021.png` & `\Road_Accident_2021-2022.png`
