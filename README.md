@@ -53,6 +53,8 @@ Visualized in: `\Road_Accident_2020-2021.png` & `\Road_Accident_2021-2022.png`
   - Only 2.9% in **snow/fog**, suggesting better driving behavior/advisories during extreme conditions
 
 
+![2021-2022](https://github.com/Sagnik2612/Great_Britain_Road_Accident_Analysis/blob/main/Dashboards/Road_Accident_2021-2022.png)
+
 - **Road Type Impact**:
 
   - 144K+ casualties on **single carriageways**
