@@ -62,6 +62,21 @@ Visualized in: `\Road_Accident_2020-2021.png` & `\Road_Accident_2021-2022.png`
   - Far fewer on **slip roads, roundabouts, and one-way streets**
 
 
+## Power BI Dashboard (2021–2022)
+
+Visualized in: `\Road_Accident_Analysis_PowerBI.jpg`
+
+- Added filters for **daylight vs. darkness, urban vs. rural**—not available in Tableau view
+
+- **Casualty Timing**:
+
+  - 73.8% of accidents occurred in **daylight**, highlighting need for better **urban planning**, not just night safety
+
+- **Urban-Rural Divide**:
+
+  - 61.9% urban, 38.1% rural—urban congestion playing a key role
+
+- Heatmap shows **higher concentration of incidents in southern UK**, notably **London, Birmingham, and Manchester**
 
 
 
