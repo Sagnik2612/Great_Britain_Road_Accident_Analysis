@@ -2,6 +2,8 @@
 
 An analytical deep-dive using **Tableau & Power BI** dashboards to assess, compare, and communicate road accident trends across the UK from **2019–2022**. This project was undertaken in response to a multi-agency directive to better understand accident dynamics and identify parameters that have contributed to the **reduction of road accidents and casualties**.
 
+---
+
 ## Business Problem Statement
 
 From 2019–2022, the UK witnessed significant fluctuations in road accident statistics. Multiple agencies including the **Road Safety Department, Police Forces, Ministry of Transport, and Emergency Services** demanded a comprehensive analytical dashboard to:
@@ -28,6 +30,8 @@ As per the documents received-
 
 <a href="https://github.com/Sagnik2612/Great_Britain_Road_Accident_Analysis/blob/main/Requirements/Stakeholder_Requirements_Document%20(1).pdf"> View for full requirements </a>
 
+---
+
 ## Dataset Description
 
 - **1. Accident_Data_for_Tableau.xlsx**
@@ -44,6 +48,8 @@ As per the documents received-
 
     <a href="https://docs.google.com/spreadsheets/d/1AM9ltBPq5sYBshvO5lzjCHBG2cOSZ1Ak/edit?usp=drive_link&ouid=104569429566929534427&rtpof=true&sd=true">Road Accident Data for PowerBI_1.xlsx</a>
 
+
+---
 
 ## Tableau Dashboard (2019–2022)
 
@@ -79,6 +85,9 @@ Visualized in: `\Road_Accident_2020-2021.png` & `\Road_Accident_2021-2022.png`
   - Far fewer on **slip roads, roundabouts, and one-way streets**
 
 
+---
+
+
 ## Power BI Dashboard (2021–2022)
 
 Visualized in: `\Road_Accident_Analysis_PowerBI.jpg`
@@ -98,6 +107,9 @@ Visualized in: `\Road_Accident_Analysis_PowerBI.jpg`
 ![2021-2022](https://github.com/Sagnik2612/Great_Britain_Road_Accident_Analysis/blob/main/Dashboards/Road_Accident_Analysis_PowerBI.jpg)
 
 
+---
+
+
 ## Key Analysis Outcomes
 
 | **Parameter**          | **Insight**                                       | **Impact**                                                      |
@@ -110,5 +122,22 @@ Visualized in: `\Road_Accident_Analysis_PowerBI.jpg`
 | **Surface Conditions** | Wet surfaces responsible for 25%+                 | Calls for resurfacing & drainage improvement                    |
 | **Time of Day**        | Daylight: 74%                                     | Better urban road design, not just night visibility             |
 | **Urban vs Rural**     | Urban: 62%                                        | Urban density requires congestion solutions & better infrastructure |
+
+
+---
+
+## Conclusion
+
+Between **2019–2022**, Britain made visible progress in curbing road accidents, especially in:
+
+- Reducing fatality rates (▼32.5%)
+
+- Enhancing emergency responses
+
+- Improving road and traffic conditions
+
+- Deploying effective public safety messaging
+
+This analysis empowered stakeholders to understand root causes, monitor interventions, and build **data-driven policies**. These Tableau and Power BI dashboards serve as **interactive visual tools** for government, media, and the public to act toward **safer roads**.
 
 
