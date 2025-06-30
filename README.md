@@ -53,7 +53,7 @@ As per the documents received-
 
 ## Tableau Dashboard (2019–2022)
 
-Visualized in: `\Road_Accident_2020-2021.png` & `\Road_Accident_2021-2022.png`
+Visualized in: `\Road_Accident_2021-2022.png`
 
 - **Primary KPIs**: Accidents & Casualties (YoY drop visible)
 
