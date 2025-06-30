@@ -126,6 +126,17 @@ Visualized in: `\Road_Accident_Analysis_PowerBI.jpg`
 
 ---
 
+## Exploring the Repository
+
+- Clone the repo to the machine `https://github.com/Sagnik2612/Great_Britain_Road_Accident_Analysis.git`
+  
+- Navigate to the `/Dashboards/` and open
+  
+- Use the datasets mentioned in this `/README.md` file
+
+___
+
+
 ## Conclusion
 
 Between **2019–2022**, Britain made visible progress in curbing road accidents, especially in:
