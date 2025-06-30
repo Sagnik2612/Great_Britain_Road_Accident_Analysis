@@ -130,7 +130,7 @@ Visualized in: `\Road_Accident_Analysis_PowerBI.jpg`
 
 - Clone the repo to the machine `https://github.com/Sagnik2612/Great_Britain_Road_Accident_Analysis.git`
   
-- Navigate to the `/Dashboards/` and open `/Road_Accident_Analysis_2.pbix` for the Power BI file and `/Road_Accident_Analysis_final.twix` for the Tableau file
+- Navigate to the `/Dashboards/` and open `/Road_Accident_Analysis_2.pbix` for the Power BI file and `/Road_Accidents_final.twbx` for the Tableau file
   
 - Use the datasets mentioned in this `/README.md` file
 
