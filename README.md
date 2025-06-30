@@ -81,3 +81,17 @@ Visualized in: `\Road_Accident_Analysis_PowerBI.jpg`
 ![2021-2022](https://github.com/Sagnik2612/Great_Britain_Road_Accident_Analysis/blob/main/Dashboards/Road_Accident_Analysis_PowerBI.jpg)
 
 
+## Key Analysis Outcomes
+
+| **Parameter**          | **Insight**                                       | **Impact**                                                      |
+|------------------------|----------------------------------------------------|------------------------------------------------------------------|
+| **YoY Trends**         | ▼11.7% Accidents, ▼11.9% Casualties (2021–22)     | Road safety campaigns showing measurable results                |
+| **Fatal Casualties**   | ▼26.4%                                            | Emergency services response & safer roads saving lives          |
+| **Vehicle Type**       | Agriculture ▼37%, Bikes ▼14%                      | Improved vehicle regulation & rural road safety                 |
+| **Road Type**          | 73% casualties on single carriageways             | Indicates need for dual upgrades or better signage              |
+| **Weather Conditions** | 81% accidents in fine weather                     | Accidents linked more to human error than poor conditions       |
+| **Surface Conditions** | Wet surfaces responsible for 25%+                 | Calls for resurfacing & drainage improvement                    |
+| **Time of Day**        | Daylight: 74%                                     | Better urban road design, not just night visibility             |
+| **Urban vs Rural**     | Urban: 62%                                        | Urban density requires congestion solutions & better infrastructure |
+
+
