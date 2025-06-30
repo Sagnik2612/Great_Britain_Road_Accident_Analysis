@@ -26,7 +26,7 @@ As per the documents received-
   - **Road types**
 - Must include **primary KPIs, YoY comparisons, and map visualizations**
 
-<a href=""> View for full requirements </a>
+<a href="https://github.com/Sagnik2612/Great_Britain_Road_Accident_Analysis/blob/main/Requirements/Stakeholder_Requirements_Document%20(1).pdf"> View for full requirements </a>
 
 
 
