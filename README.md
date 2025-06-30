@@ -28,6 +28,38 @@ As per the documents received-
 
 <a href="https://github.com/Sagnik2612/Great_Britain_Road_Accident_Analysis/blob/main/Requirements/Stakeholder_Requirements_Document%20(1).pdf"> View for full requirements </a>
 
+## Tableau Dashboard (2019–2022)
+
+Visualized in: `\Road_Accident_2020-2021.png` & `\Road_Accident_2021-2022.png`
+
+- **Primary KPIs**: Accidents & Casualties (YoY drop visible)
+
+- **Casualty Trends**: Monthly comparisons between 2021 & 2022 highlight a decline in late-year incidents
+
+- **Vehicle-Type Casualties**: Car users formed the bulk (155K+), while agricultural vehicles showed the steepest decline (▼37%)
+
+- **Road Surface Conditions**:
+
+  - 67.4% of accidents happened on **dry roads**
+
+  - 25.7% on **wet roads**
+ 
+  
+
+- **Weather Impact**:
+
+  - 80.7% of casualties occurred in **fine weather**
+
+  - Only 2.9% in **snow/fog**, suggesting better driving behavior/advisories during extreme conditions
+
+
+- **Road Type Impact**:
+
+  - 144K+ casualties on **single carriageways**
+
+  - Far fewer on **slip roads, roundabouts, and one-way streets**
+
+
 
 
 
