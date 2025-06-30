@@ -67,7 +67,6 @@ Visualized in: `\Road_Accident_2020-2021.png` & `\Road_Accident_2021-2022.png`
 
   - 25.7% on **wet roads**
  
-  ![2020-2021](https://github.com/Sagnik2612/Great_Britain_Road_Accident_Analysis/blob/main/Dashboards/Road_Accident_2020-2021.png)
 
 - **Weather Impact**:
 
