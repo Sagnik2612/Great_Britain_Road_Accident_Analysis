@@ -78,6 +78,6 @@ Visualized in: `\Road_Accident_Analysis_PowerBI.jpg`
 
 - Heatmap shows **higher concentration of incidents in southern UK**, notably **London, Birmingham, and Manchester**
 
-
+![2021-2022](https://github.com/Sagnik2612/Great_Britain_Road_Accident_Analysis/blob/main/Dashboards/Road_Accident_Analysis_PowerBI.jpg)
 
 
